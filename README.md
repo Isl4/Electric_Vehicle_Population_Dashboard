@@ -83,8 +83,8 @@ The dataset was cleaned and transformed using Power Query.
 ## Dashboard Preview
 <img width="1516" height="943" alt="Screenshot 2026-10-21 103522" src="https://github.com/user-attachments/assets/116c0ee3-8668-44f0-a85e-d61aeb65a831" />
 <img width="497" height="582" alt="Screenshot 2026-10-21 103547" src="https://github.com/user-attachments/assets/ce856cc2-e0a9-4acc-89a6-1a9902322ed5" />
-<img width="1030" height="236" alt="Screenshot 2026-10-21 103645" src="https://github.com/user-attachments/assets/6d25117e-edc6-4d1e-b78d-c13f4385c3cd" />
 <img width="1520" height="133" alt="Screenshot 2026-10-21 103627" src="https://github.com/user-attachments/assets/7a7ba02c-f3dc-415f-9e69-d2f88239e8b9" />
+<img width="1030" height="236" alt="Screenshot 2026-10-21 103645" src="https://github.com/user-attachments/assets/6d25117e-edc6-4d1e-b78d-c13f4385c3cd" />
 <img width="1035" height="552" alt="Screenshot 2026-10-21 103701" src="https://github.com/user-attachments/assets/381e12b1-0dd6-4127-b181-4fd9933842b5" />
 
 
